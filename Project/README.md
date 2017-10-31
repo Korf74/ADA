@@ -1,8 +1,8 @@
-# Loss of interest of the media on armed conflit
+# Loss of interest in the media for armed conflits
 
 ## Abstract
 
-Media is the first and often the unique source of information in the modern society that is supposed  to ensure a certain integrity. The information they provide determine the global vision of the world. 
+Media is the first and often the unique source of information in the modern society, that is supposed  to ensure a certain integrity. The information they provide determine our global vision of the world. 
 We aim to show the lost of interest in the media, for armed conflit, that tends to last over time. We believe that this practice suggests to the population that the situation has improved. 
 For instance, over the last couple of years, we have been flooded by news about the Syrian conflit, whereas the situation in Afghanistan is overlooked, but it does not mean that the conflit is over.
 
@@ -21,6 +21,9 @@ List the dataset(s) you want to use, and some ideas on how do you expect to get,
 
 We will use the "GDELT 1.0 Event Database" for the data. https://www.gdeltproject.org/data.html#rawdatafiles
 
+The data is provided as a downloadable file, the computer is not capable of store it. Therefore we will have to use clusters.
+
+The size of the data is huge (i.e 2.4 TB), which is challenging.  However, we think that all the information we need is contained in this data. The documentation about each features is clear.
 
 ## A list of internal milestones up until project milestone 2
 Milestone 2 deadline : 28 November 2017
