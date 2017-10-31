@@ -13,7 +13,7 @@ Ideally, we also would like to show that the media coverage of armed conflit dep
 
 * The distribution of the number of article mentioned over the conflit duration.
 * A space distribution of the number of articles/mentions based on the geolocation of a conflit.
-* The corrolation between countries involved in a conflit and the number of articles/mentions of it.
+* The correlation between countries involved in a conflit and the number of articles/mentions of it.
 
 
 ## Dataset
@@ -28,7 +28,7 @@ The size of the data is huge (i.e 2.4 TB), which is challenging.  However, we th
 ## A list of internal milestones up until project milestone 2
 Milestone 2 deadline : 28 November 2017
 
-* A stategie to extract the data.
+* A stategy to extract the data.
 * Create analyse functions that helps to build relevant data.
 * Familiarize with the data.
 
