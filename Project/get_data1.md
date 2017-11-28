@@ -18,11 +18,11 @@ There you will find a space to write a SQL query to the dataset. Several SQL que
 
 
 
-`query_1.sql` : returns a table which count the number article and the number of event per month,country and EventCode.
+`mainExtraction.sql` : returns a table which count the number article and the number of event per month, country and EventCode.
 
-`query_2.sql` : the top 40 countries which have the highest number of articles that are filter by EventCode
+`topArticle.sql` : the top 40 countries which have the highest number of articles that are filter by EventCode
 
-`query_3.sql` : the top 40 countries which have the highest number of events that are filter by EventCode.
+`topEvent.sql` : the top 40 countries which have the highest number of events that are filter by EventCode.
 
 
 * Run each of SQL command and download the file.
