@@ -1,0 +1,79 @@
+Canton,Age Class,Unemployement rate
+Zurich,15-24 ans,3.7
+Zurich,25-49 ans,3.4
+Zurich,50 ans et plus,2.9
+Berne,15-24 ans,2.8
+Berne,25-49 ans,2.5
+Berne,50 ans et plus,2.2
+Lucerne,15-24 ans,2.1
+Lucerne,25-49 ans,1.7
+Lucerne,50 ans et plus,1.6
+Uri,15-24 ans,0.5
+Uri,25-49 ans,0.5
+Uri,50 ans et plus,0.7
+Schwyz,15-24 ans,1.6
+Schwyz,25-49 ans,1.6
+Schwyz,50 ans et plus,1.9
+Obwald,15-24 ans,0.7
+Obwald,25-49 ans,0.7
+Obwald,50 ans et plus,0.8
+Nidwald,15-24 ans,0.9
+Nidwald,25-49 ans,0.9
+Nidwald,50 ans et plus,1.2
+Glaris,15-24 ans,1.8
+Glaris,25-49 ans,1.7
+Glaris,50 ans et plus,2.1
+Zoug,15-24 ans,1.8
+Zoug,25-49 ans,2.4
+Zoug,50 ans et plus,2.3
+Fribourg,15-24 ans,3.2
+Fribourg,25-49 ans,2.7
+Fribourg,50 ans et plus,2.5
+Soleure,15-24 ans,2.9
+Soleure,25-49 ans,2.5
+Soleure,50 ans et plus,2.6
+Bâle-Ville,15-24 ans,4.4
+Bâle-Ville,25-49 ans,3.7
+Bâle-Ville,50 ans et plus,2.8
+Bâle-Campagne,15-24 ans,3.2
+Bâle-Campagne,25-49 ans,2.8
+Bâle-Campagne,50 ans et plus,2.5
+Schaffhouse,15-24 ans,3.8
+Schaffhouse,25-49 ans,3.1
+Schaffhouse,50 ans et plus,2.3
+Appenzell Rhodes-Extérieures,15-24 ans,1.5
+Appenzell Rhodes-Extérieures,25-49 ans,1.7
+Appenzell Rhodes-Extérieures,50 ans et plus,1.8
+Appenzell Rhodes-Intérieures,15-24 ans,1
+Appenzell Rhodes-Intérieures,25-49 ans,0.5
+Appenzell Rhodes-Intérieures,50 ans et plus,0.9
+St-Gall,15-24 ans,2.4
+St-Gall,25-49 ans,2.2
+St-Gall,50 ans et plus,2.1
+Grisons,15-24 ans,1.4
+Grisons,25-49 ans,1
+Grisons,50 ans et plus,1
+Argovie,15-24 ans,3.3
+Argovie,25-49 ans,3
+Argovie,50 ans et plus,2.7
+Thurgovie,15-24 ans,2.3
+Thurgovie,25-49 ans,2
+Thurgovie,50 ans et plus,2
+Tessin,15-24 ans,5.2
+Tessin,25-49 ans,2.9
+Tessin,50 ans et plus,3
+Vaud,15-24 ans,4.3
+Vaud,25-49 ans,4.6
+Vaud,50 ans et plus,3.6
+Valais,15-24 ans,3.3
+Valais,25-49 ans,2.8
+Valais,50 ans et plus,2.5
+Neuchâtel,15-24 ans,6.1
+Neuchâtel,25-49 ans,5.2
+Neuchâtel,50 ans et plus,4.6
+Genève,15-24 ans,4.6
+Genève,25-49 ans,5.8
+Genève,50 ans et plus,4.1
+Jura,15-24 ans,5.1
+Jura,25-49 ans,4.4
+Jura,50 ans et plus,4
