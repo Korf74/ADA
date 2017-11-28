@@ -50,6 +50,8 @@ There you will find a space to write a SQL query to the dataset. Several SQL que
 
 * Run each of SQL command and download the file in CSV format.
 
+With the CSV files you can run the notebook called `milestone2`
+
 
 
 
