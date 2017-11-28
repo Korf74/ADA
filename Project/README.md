@@ -1,4 +1,4 @@
-# Loss of interest in the media for armed conflits
+# Media coverage of violent events in war zone
 
 ## Abstract
 
