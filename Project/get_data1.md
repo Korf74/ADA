@@ -14,7 +14,7 @@ The methodology to extract the data.
 
 * Connect to the Google Big Query which hold the GDELT data, click [here](https://bigquery.cloud.google.com/table/gdelt-bq:full.events)
 
-There you will find a space to write a SQL query to the dataset. Several SQL queries are made. The following section describe the purpose of the SQL files.
+There you will find a space to write a SQL query to the dataset. Several SQL queries are made and the following section describe the purpose of the SQL files.
 
 
 
