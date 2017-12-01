@@ -1,0 +1,12 @@
+- faire un plot des distribution (Histogram) des nombre d'articles par année sur tout les events .
+	- prendre un evenement par quartile, et comparer avec les EventMention si c'est proportionel au nombre d'article dans les 15 min alors ok.
+
+	=> si le nombre d'article dans les 15 min apportenet suffisamment d'inforamtion sur l'importance de l'évènenemnt.
+
+
+- Normalisation des nombre d'articles:
+	- sommes du nombre d'article total par an (mois pour plus de précision)
+	-	calcule la proportion par pays pour trouver l'importance.
+	- Pin point des evènement reference pour juger l'importance . => Pour juger la difference entre les pays.
+
+		
