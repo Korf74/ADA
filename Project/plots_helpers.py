@@ -73,10 +73,12 @@ def year_slider_plot(title, dict_data, x_range, y_range, x_label, y_label, text_
 def country_tab(country_name, deaths, ratio):
 	date = np.arange(2000,2017,1,dtype=np.int64) # stop value excluded
 	date = date.astype('str')
-	p = figure(x_range=FactorRange(*date), plot_height=350, toolbar_location=None, tools="")
+	p = figure(x_range=FactorRange(*date), plot_height=350, toolbar_location=None, tools="", title="Ratio vs Death")
+	p.yaxis.axis_label = "Death"
+	p.xaxis.axis_label = "Year"
 	p.vbar(x=date, top = deaths, width=0.9, alpha=0.5)
 	p.extra_y_ranges = {"Ratio": Range1d(start=0.8, end=2)}
-	p.add_layout(LinearAxis(y_range_name="Ratio"), "right")
+	p.add_layout(LinearAxis(y_range_name="Ratio", axis_label="Ratio"), "right")
 	p.line(x=date, y=ratio, color = "red", line_width = 2, y_range_name="Ratio")
 	tab = Panel(child=p, title = country_name)
 	return tab
