@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# Source of the code  : https://github.com/python-visualization/folium/blob/master/folium/plugins/time_slider_choropleth.py
 
 from __future__ import (absolute_import, division, print_function)
 
