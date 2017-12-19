@@ -52,7 +52,7 @@ With the CSV files you can run the notebook called `milestone2`
 # Milestone 3
 
 * The notebook is **Milestone3.ipynb**
-* The report is **Report.pdf**
+* The report is **ADA_report.pdf**
 
 For this milestone the division of work was as follows :
 
