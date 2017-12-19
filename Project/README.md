@@ -1,4 +1,4 @@
-*To read the final notebook use this link :* http://nbviewer.jupyter.org/github/Korf74/ADA/blob/master/Project/Milestone3.ipynb 
+*To read the final notebook use this link :* http://nbviewer.jupyter.org/github/Korf74/ADA/blob/master/Project/Milestone3.ipynb
 
 # Media coverage of violent events in war zone
 
